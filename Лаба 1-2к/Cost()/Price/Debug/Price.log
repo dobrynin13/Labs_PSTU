@@ -1,0 +1,6 @@
+﻿  Price.cpp
+C:\Users\Igor\source\repos\Price\Price\Price.cpp(45,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Igor\source\repos\Price\Price\Price.cpp(64,36): warning C4129: ,: неизвестная escape-последовательность
+C:\Users\Igor\source\repos\Price\Price\Price.cpp(65,34): warning C4129: ,: неизвестная escape-последовательность
+C:\Users\Igor\source\repos\Price\Price\Price.cpp(66,35): warning C4129: ,: неизвестная escape-последовательность
+  Price.vcxproj -> C:\Users\Igor\source\repos\Price\Debug\Price.exe

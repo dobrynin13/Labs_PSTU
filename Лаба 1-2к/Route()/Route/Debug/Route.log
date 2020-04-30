@@ -1,0 +1,5 @@
+﻿  Route.cpp
+C:\Users\Igor\source\repos\Route\Route\Route.cpp(123,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Igor\source\repos\Route\Route\Route.cpp(127,37): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Igor\source\repos\Route\Route\Route.cpp(132,18): warning C4305: аргумент: усечение из "double" в "float"
+  Route.vcxproj -> C:\Users\Igor\source\repos\Route\Debug\Route.exe
