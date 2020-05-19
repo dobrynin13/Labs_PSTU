@@ -1,0 +1,4 @@
+﻿  Лаба 4.cpp
+C:\Users\Igor\source\repos\Лаба 4\Лаба 4\Лаба 4.cpp(80,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Igor\source\repos\Лаба 4\Лаба 4\Лаба 4.cpp(82,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Лаба 4.vcxproj -> C:\Users\Igor\source\repos\Лаба 4\Debug\Лаба 4.exe
